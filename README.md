@@ -1,4 +1,4 @@
-# QunatProjects-Main
+# QuantProjects-Main
 What We're Building:
 A Python tool that tests different portfolio strategies using historical stock data and compares their performance using risk-adjusted metrics.
 The Goal:
